@@ -1,0 +1,10 @@
+Admin,Male,Admin,admin@gmail.com,123123,010123546789,Admin,21
+ImtihanRahman,Male,User,imtihan@gmail.com,32123,0172900839,Accountant,21
+AdminTwo,Female,Admin,admintwo@gmail.com,123456,0172900897,CEO,25
+Kaniz,Female,User,kaniz@gmail.com,1234567,0171133212,Manager,20
+AdminFour,Female,Admin,adminfour@gmail.com,12345,098097876,COO,25
+tedmosby,Male,Admin,tedmosby@gmail.com,1231234,01876542,Executive manager,24
+Robinson,Male,User,robinson@gmail.com,12345678,098767312,Co Clerk,21
+ted,Male,Admin,ted@gmail.com,1212,0189181610,executive manager,28
+mosby,Male,User,mosby@gmail.com,123123,0198972672,Clerk,25
+,null,Admin,,,,,
